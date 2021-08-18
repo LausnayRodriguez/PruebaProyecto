@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.exe
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.deps.json
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.dll
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\bin\Debug\netcoreapp3.1\BiciProject_Store.pdb
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.dll
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.pdb
+C:\Users\Lenovo\source\repos\BiciProject_Store\BiciProject_Store\obj\Debug\netcoreapp3.1\BiciProject_Store.genruntimeconfig.cache
